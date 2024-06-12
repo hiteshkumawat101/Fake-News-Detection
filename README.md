@@ -5,7 +5,9 @@ Installation
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 Data Preprocessing
-Handling missing values
-TF-IDF vectorization of text data
+Handling missing values by filling empty fields
+Creating a new feature by combining the title and author
+Applying stemming to text data
+Vectorizing text data using TF-IDF
 
 
