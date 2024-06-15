@@ -10,4 +10,6 @@ Creating a new feature by combining the title and author
 Applying stemming to text data
 Vectorizing text data using TF-IDF
 
+Data is taken from kaggle
+
 
